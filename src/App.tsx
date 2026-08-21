@@ -144,7 +144,7 @@ export default function Home() {
             <div className="portrait-frame">
               <img
                 className="portrait"
-                src="./viktor-majewski.jpeg"
+                src="./viktor-majewski.jpg"
                 alt="Viktor Majewski in front of the New Palace in Potsdam"
               />
               <span className="portrait-mark" aria-hidden="true">
