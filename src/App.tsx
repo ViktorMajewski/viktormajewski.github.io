@@ -123,15 +123,10 @@ export default function Home() {
         <section className="hero" id="top">
           <div className="hero-copy">
             <p className="eyebrow">Differential Geometer · University of Waterloo</p>
-        <h1>
+            <h1>
               <em>Special holonomy and gauge theory</em>
-              <span className=".h1-subline {
-                    display: block;
-                    font-size: 1.1rem;
-                    font-weight: 400;
-                    color: #555;
-                    margin-top: 0.6em;}"> Moduli spaces, degenerations, and categorified enumerative geometry.</span>
-        </h1>
+                <span className="h1-subline"> Moduli spaces, degenerations, and categorified enumerative geometry.</span>
+              </h1>
             <p className="hero-intro">
               I work in differential geometry and geometric analysis, with a
               focus on special holonomy spaces, gauge theory, calibrated geometry and enumerative invariants.
