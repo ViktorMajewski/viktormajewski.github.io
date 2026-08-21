@@ -159,8 +159,8 @@ export default function Home() {
 
           <aside className="current-note1" aria-label="Current position1">
             <p>
-              Postdoctoral researcher with <a href="https://www.math.uwaterloo.ca/~karigian/">Spiro Karigiannis</a>.
-              Joining the University of Regensburg in April 2027.
+              I am a postdoctoral researcher at the University of Waterloo working with <a href="https://www.math.uwaterloo.ca/~karigian/">Spiro Karigiannis</a>.
+              I am joining the University of Regensburg in April 2027 to work with <a href="https://ammann.app.uni-regensburg.de/">Bernd Ammann</a>.
             </p>
           </aside>
 
