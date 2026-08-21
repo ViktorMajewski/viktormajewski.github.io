@@ -156,16 +156,16 @@ export default function Home() {
             </figcaption>
           </figure>
 
-          <aside className="current-note" aria-label="Current position">
+          <aside className="current-note1" aria-label="Current position1">
             <p>
               Postdoctoral researcher with <a href="https://www.math.uwaterloo.ca/~karigian/">Spiro Karigiannis</a>.
               Joining the University of Regensburg in April 2027.
             </p>
           </aside>
 
-          <aside className="current-note" aria-label="Previous positions">
+          <aside className="current-note2" aria-label="Previous positions2">
             <p>
-              I obtained my PhD in 2025 at the Humboldt-Universität zu Berlin under the supervison of  <a href="https://walpu.ski/"></a>Thomas Walpuski
+              I obtained my PhD in 2025 at the Humboldt-Universität zu Berlin under the supervison of  <a href="https://walpu.ski/">Thomas Walpuski</a>. I was a member of the <a href="https://www.math-berlin.de/">BMS</a> and a student representative. 
             </p>
           </aside>
 
