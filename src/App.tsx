@@ -125,7 +125,12 @@ export default function Home() {
             <p className="eyebrow">Differential Geometer · University of Waterloo</p>
         <h1>
               <em>Special holonomy and gauge theory</em>
-              <span className="h1-subline"> Moduli spaces, degenerations, and categorified enumerative geometry.</span>
+              <span className=".h1-subline {
+                    display: block;
+                    font-size: 1.1rem;
+                    font-weight: 400;
+                    color: #555;
+                    margin-top: 0.6em;}"> Moduli spaces, degenerations, and categorified enumerative geometry.</span>
         </h1>
             <p className="hero-intro">
               I work in differential geometry and geometric analysis, with a
