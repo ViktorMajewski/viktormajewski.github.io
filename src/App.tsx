@@ -103,10 +103,10 @@ export default function Home() {
 
       <header className="site-header">
         <div className="header-inner">
-          <a className="wordmark" href="#top" aria-label="Viktor Majewski, home">
-            <span className="monogram">VM</span>
-            <span>Viktor Majewski</span>
-          </a>
+       <a className="wordmark" href="#top" aria-label="Viktor Majewski, home">
+          <img className="monogram" src="./favicon.svg" alt="" />
+          <span>Viktor Majewski</span>
+        </a>
           <nav className="nav-links" aria-label="Main navigation">
             <a href="#research">Research</a>
             <a href="#publications">Publications</a>
