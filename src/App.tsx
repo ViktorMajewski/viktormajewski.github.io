@@ -2,6 +2,15 @@ const publications = [
   {
     year: "2026",
     type: "Preprint",
+    title: "Degenerations of exotic Calabi-Yau metrics through Atiyah's flop",
+    authors: "with Thibault Langlais",
+    href: "http://arxiv.org/abs/2609.08978",
+    tag: "arXiv:2609.08978",
+  },
+  
+  {
+    year: "2026",
+    type: "Preprint",
     title: "Non-Existence of Smooth Full-Holonomy Cayley Fibrations",
     authors: "with Jianfeng Lin and Jacek Rzemieniecki",
     href: "https://arxiv.org/abs/2603.26920",
