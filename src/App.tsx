@@ -162,7 +162,7 @@ export default function Home() {
               </span>
             </div>
             <figcaption>
-              <span>Viktor Frederik Majewski</span>
+              <span><a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=348752">Viktor Frederik Majewski</a></span>
             </figcaption>
           </figure>
 
